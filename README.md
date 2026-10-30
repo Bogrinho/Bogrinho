@@ -4,6 +4,7 @@ I'm an Information Technology student at Deree — The American College of Greec
 
 ## Featured projects
 
+- **[SiteWatch](https://github.com/Bogrinho/sitewatch)** — Full-stack website monitoring dashboard built with React, TypeScript, Cloudflare Workers and D1. It tracks availability and incidents, and supports email alerts. [Explore the public demo](https://sitewatch-portfolio-demo.stathisbogris.workers.dev/) (sample data).
 - **[House Booking System](https://github.com/Bogrinho/house-booking-system)** — Python/Tkinter desktop prototype with booking rules, customer and admin screens, JSON storage, and tests. ITC 2205 team project; all known collaborators are credited in the repository.
 - **[GymPoint Fitness App](https://github.com/Bogrinho/gympoint-fitness-app)** — Figma UI/UX prototype for a fitness app. Group 4 team project; the original design export is available from its GitHub release. This is design work, not an implemented app.
 
@@ -19,4 +20,3 @@ These are TestraTech projects I built. Their implementation repositories remain 
 - [Bookstore Inventory](https://github.com/Bogrinho/Bookstore) — Java command-line exercise that reads sample book data and calculates total inventory value.
 
 The project READMEs and case studies explain scope, evidence, and limitations. TestraTech.gr and SelfTalk are additional work; I am keeping their proprietary details out of this public portfolio.
-
